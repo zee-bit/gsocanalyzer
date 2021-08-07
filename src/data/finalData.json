@@ -7417,44 +7417,6 @@
             ]
       },
       {
-            "url": "https://summerofcode.withgoogle.com/archive/2020/organizations/5924162381545472/",
-            "name": "Zulip",
-            "tech": [
-                  "python",
-                  "react native",
-                  "django",
-                  "typescript",
-                  "electron"
-            ],
-            "cat": "Social / Communications",
-            "top": [
-                  "bots",
-                  "mobile",
-                  "chat",
-                  "great developer tooling",
-                  "visual design"
-            ],
-            "year": [
-                  2020,
-                  2018,
-                  2017
-            ],
-            "project": [
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  10,
-                  10,
-                  0,
-                  18
-            ]
-      },
-      {
             "url": "https://summerofcode.withgoogle.com/archive/2019/organizations/6331236958601216/",
             "name": "52\u00b0North Initiative for Geospatial Open Source Software GmbH",
             "tech": [
@@ -10413,7 +10375,10 @@
                   "great developer tooling"
             ],
             "year": [
+                  2020,
                   2019,
+                  2018,
+                  2017,
                   2016
             ],
             "project": [
@@ -10425,10 +10390,10 @@
                   0,
                   0,
                   3,
-                  0,
-                  0,
+                  10,
+                  10,
                   17,
-                  0
+                  18
             ]
       },
       {
