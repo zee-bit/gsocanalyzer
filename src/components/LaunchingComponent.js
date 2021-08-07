@@ -6,7 +6,7 @@ import '../css/mainpagecss.css';
 const LaunchingComponent = () => {
   return (
     <React.Fragment>
-      <Typist avgTypingDelay={20} cursor={{ show: false }}>
+      <Typist avgTypingDelay={10} cursor={{ show: false }}>
         <div id='animatedText'>
           <p>
             A blazingly fast tool to get the past 12 year analytics of any

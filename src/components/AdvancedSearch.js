@@ -60,6 +60,7 @@ const AdvancedSearch = props => {
           type='text'
           name='search'
           placeholder='Search..'
+          autoComplete='off'
         />
         <button type='submit' onClick={handleSearch} className='search-btn'>
           <FontAwesomeIcon color='white' className='fa-2x' icon={faSearch} />{' '}
